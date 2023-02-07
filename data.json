@@ -425,20 +425,7 @@
     "type": "w",
     "rank": 35
   },
-  {
-    "pop2023": 9648110,
-    "pop2022": 9540576,
-    "city": "London",
-    "country": "United Kingdom",
-    "growthRate": 0.0113,
-    "lifeExp": 82,
-    "safeScore": 7.7,
-    "employRate": 78,
-    "curr": "Pound Sterling",
-    "pta": "Buckingham Palace",
-    "type": "w",
-    "rank": 36
-  },
+ 
   {
     "pop2023": 9569328,
     "pop2022": 9571596,
