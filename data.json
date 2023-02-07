@@ -5,7 +5,7 @@
     "city": "Tokyo",
     "country": "Japan",
     "growthRate": -0.0021,
-    "lifeExp": 83 ,
+    "lifeExp": 83,
     "safeScore": 8,
     "employRate": 81.1,
     "curr": "JPY",
@@ -136,7 +136,7 @@
     "safeScore": 7.7,
     "employRate": 77,
     "curr": "Yen (¥) ",
-    "pta": "Osaka Castle ",
+    "pta": "Osaka Castle",
     "type": "w",
     "rank": 10
   },
@@ -466,7 +466,7 @@
     "lifeExp": 77,
     "safeScore": 5.9,
     "employRate": 83.7,
-    "curr": "Vietnamese Dong (VND) ",
+    "curr": "Vietnamese Dong (VND)",
     "pta": " Notre-Dame Cathedral Basilica of Saigon",
     "type": "w",
     "rank": 39
@@ -1509,7 +1509,7 @@
     "lifeExp": 79,
     "safeScore": 4.9,
     "employRate": 41.4,
-    "curr": "Kuwaiti Dinar (KWD) ",
+    "curr": "Kuwaiti Dinar (KWD)",
     "pta": "The Grand Mosque",
     "type": "w",
     "rank": 145
@@ -1897,7 +1897,7 @@
     "safeScore": 7.5,
     "employRate": 64.8,
     "curr": "US Dollar",
-    "pta": "The Magnificent Mile ",
+    "pta": "The Magnificent Mile",
     "rank": 185
   },
   {
@@ -2108,7 +2108,7 @@
     "lifeExp": 74,
     "safeScore": 5,
     "employRate": 55,
-    "curr": "Azerbaijani Manat (AZM) ",
+    "curr": "Azerbaijani Manat (AZM)",
     "pta": "Old City (Icheri Sheher)",
     "type": "w",
     "rank": 207
