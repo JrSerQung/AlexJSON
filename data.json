@@ -1,4 +1,19 @@
-
+[
+  {
+    "pop2023": 37194104,
+    "pop2022": 37274000,
+    "city": "Tokyo",
+    "country": "Japan",
+    "growthRate": -0.0021,
+    "lifeExp": 83,
+    "safeScore": 8,
+    "employRate": 81.1,
+    "curr": "JPY",
+    "pta": "Tokyo Sky Tree",
+    "type": "w",
+    "rank": 1
+  },
+  {
     "pop2023": 32941308,
     "pop2022": 32065760,
     "city": "Delhi",
