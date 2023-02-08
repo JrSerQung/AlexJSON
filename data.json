@@ -23,7 +23,7 @@
     "safeScore": 5.6,
     "employRate": 66.4,
     "curr": "INR",
-    "pta": "India Gate"
+    "pta": "India Gate",
     "type": "w",
     "rank": 2
   },
@@ -133,7 +133,6 @@
     "growthRate": -0.0024,
     "safeScore": 7.8,
     "lifeExp": 84,
-    "safeScore": 7.7,
     "employRate": 77,
     "curr": "Yen (¥)",
     "pta": "Osaka Castle",
@@ -343,7 +342,7 @@
     "safeScore": 5.6,
     "employRate": 62.3,
     "curr": "Indonesian Rupiah",
-    "pta": "Monas Monument ",
+    "pta": "Monas Monument",
     "type": "w",
     "rank": 28
   },
@@ -469,7 +468,7 @@
     "safeScore": 5.9,
     "employRate": 83.7,
     "curr": "Vietnamese Dong (VND)",
-    "pta": " Notre-Dame Cathedral Basilica of Saigon",
+    "pta": "Notre-Dame Cathedral Basilica of Saigon",
     "type": "w",
     "rank": 39
   },
@@ -1692,7 +1691,7 @@
     "lifeExp": 79,
     "safeScore": 6.5,
     "employRate": 82,
-    "curr": " UAE Dirham (AED)",
+    "curr": "UAE Dirham (AED)",
     "pta": "Burj Khalifa",
     "type": "w",
     "rank": 164
